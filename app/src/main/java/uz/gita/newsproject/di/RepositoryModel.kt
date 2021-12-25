@@ -6,9 +6,11 @@ import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
 import uz.gita.newsproject.domen.repositories.FavouriteRepository
 import uz.gita.newsproject.domen.repositories.NewsRepository
+import uz.gita.newsproject.domen.repositories.SharedPrefRepository
 import uz.gita.newsproject.domen.repositories.SourceRepository
 import uz.gita.newsproject.domen.repositories.impl.FavouriteRepositoryImpl
 import uz.gita.newsproject.domen.repositories.impl.NewsRepositoryImpl
+import uz.gita.newsproject.domen.repositories.impl.SharedPrefRepositoryImpl
 import uz.gita.newsproject.domen.repositories.impl.SourceRepositoryImpl
 import javax.inject.Singleton
 
@@ -27,4 +29,8 @@ abstract class RepositoryModel {
     @Binds
     @Singleton
     abstract fun getFavouriteRepository(favouriteRepositoryImpl: FavouriteRepositoryImpl) : FavouriteRepository
+
+    @Binds
+    @Singleton
+    abstract fun getSharedRepository(sharedPrefRepositoryImpl: SharedPrefRepositoryImpl) : SharedPrefRepository
 }

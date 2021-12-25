@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/drawable/bg_news_item.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/drawable/button_state.xml" value="0.28229166666666666" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/drawable/ic_bookmark.xml" value="0.15416666666666667" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/drawable/ic_bookmark_red.xml" value="0.2611111111111111" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/drawable/ic_circle.xml" value="0.15416666666666667" />
@@ -22,11 +23,15 @@
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/page_source.xml" value="0.11277173913043478" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/page_sports.xml" value="0.13802083333333334" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/page_technology.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/screen_login.xml" value="0.14492753623188406" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/screen_main.xml" value="0.25" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/screen_network.xml" value="0.2" />
+        <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/screen_register.xml" value="0.14492753623188406" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/screen_search.xml" value="0.25" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/screen_source.xml" value="0.13802083333333334" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/screen_source_web.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/screen_splash.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/screen_web.xml" value="0.15217391304347827" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/layout/sources_fragment.xml" value="0.13802083333333334" />
         <entry key="..\:/Users/R.Asrorjon/AndroidStudioProjects/NewsProject/app/src/main/res/menu/menu.xml" value="0.9464285714285714" />
       </map>
